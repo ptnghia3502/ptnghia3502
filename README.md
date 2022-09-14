@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Trong Nghia</h3>
+<h2>Hi 👋, I'm Trong Nghia</h2>
 
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
