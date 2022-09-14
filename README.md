@@ -52,5 +52,11 @@
 
 ## 🔥 My Github Stats
 <!--https://github.com/anuraghazra/github-readme-stats-->
-<img align="center" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502" />
-<img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502" />
+<div align=center>
+  <a href="#" title="ptnghia3502">
+    <img align="center" width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502" />
+  </a>
+  <a href="#" title="ptnghia3502">
+    <img align="right" width="430" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502" />
+  </a>
+</div>
