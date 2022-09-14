@@ -16,6 +16,8 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Microsoft SQL Server-F8F8FF?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server" title="Microsoft SQL   Server" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Swagger-F8F8FF?logo=Swagger&logoColor=85EA2D" alt="Swagger" title="Swagger" height="25" /></span>
+  &nbsp;
   
   <span><img src="https://img.shields.io/badge/HTML5-F8F8FF?logo=HTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
   &nbsp;
@@ -24,6 +26,8 @@
   <span><img src="https://img.shields.io/badge/JavaScript-F8F8FF?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Bootstrap-F8F8FF?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Postman-F8F8FF?logo=Postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" /></span>
   &nbsp;
   
   <span><img src="https://img.shields.io/badge/Visual Studio Code-F8F8FF?logo=Visual Studio Code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio     Code" height="25" /></span>
