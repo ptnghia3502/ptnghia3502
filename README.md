@@ -49,3 +49,8 @@
   <span><img src="https://img.shields.io/badge/GitHub-F8F8FF?logo=GitHub&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>
   &nbsp;
 </p>
+
+## 🔥 My Github Stats
+<!--https://github.com/anuraghazra/github-readme-stats-->
+<img align="center" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502" />
+<img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502" />
