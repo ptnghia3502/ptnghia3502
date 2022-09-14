@@ -54,9 +54,9 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align=center>
   <a href="#" title="ptnghia3502">
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502" />
+    <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502" />
   </a>
   <a href="#" title="ptnghia3502">
-    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502" />
+    <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502" />
   </a>
 </div>
