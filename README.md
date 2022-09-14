@@ -7,7 +7,7 @@
 - :bulb: My favorite quote is ***"Slowing down is sometimes the best way to speed up"*** 
 
 
-## <img src="https://img.icons8.com/ios-filled/344/source-code.png" width="50px" height="40px"> Technologies and Tools
+## 🛠 Technologies and Tools
   <span><img src="https://img.shields.io/badge/C Sharp-F8F8FF?logo=C Sharp&logoColor=239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
