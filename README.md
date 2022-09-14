@@ -5,3 +5,5 @@
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie coder :penguin:
 - :sunglasses: My favorite quote is ***"Slowing down is sometimes the best way to speed up"*** 
+
+🤣
