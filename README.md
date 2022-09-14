@@ -7,9 +7,14 @@
 - :bulb: My favorite quote is ***"Slowing down is sometimes the best way to speed up"*** 
 
 
-## <img src="https://img.icons8.com/ios-filled/344/source-code.png" width="50px" height="40px"> Languages and Tools
-<p align="center">
-  <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" alt="opencv" width="48" height="48"/> 
+## <img src="https://img.icons8.com/ios-filled/344/source-code.png" width="50px" height="40px"> Technologies and Tools
+  <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=#512BD4" alt=".NET logo" title=".NET" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=C Sharp&logoColor=#239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=Visual Studio Code&logoColor=#007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+  &nbsp;
+  
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
