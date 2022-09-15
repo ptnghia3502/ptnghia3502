@@ -8,6 +8,7 @@
 
 
 ## 🛠 Technologies and Tools
+<!-- LANGUAGES -->
   <span><img src="https://img.shields.io/badge/C Sharp-F8F8FF?logo=C Sharp&logoColor=239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
@@ -18,7 +19,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Swagger-F8F8FF?logo=Swagger&logoColor=85EA2D" alt="Swagger" title="Swagger" height="25" /></span>
   &nbsp;
-  
+<!-- FRONT-END -->
   <span><img src="https://img.shields.io/badge/HTML5-F8F8FF?logo=HTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/CSS3-F8F8FF?logo=CSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -29,7 +30,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Postman-F8F8FF?logo=Postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" /></span>
   &nbsp;
-  
+<!-- IDE Tools -->
   <span><img src="https://img.shields.io/badge/Visual Studio Code-F8F8FF?logo=Visual Studio Code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio     Code" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Visual Studio-F8F8FF?logo=Visual Studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" />   </span>
@@ -37,7 +38,7 @@
   <span><img src="https://img.shields.io/badge/Apache NetBeans IDE-F8F8FF?logo=Apache NetBeans IDE&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="Apache         NetBeans IDE" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/IntelliJ IDEA-F8F8FF?logo=IntelliJ IDEA&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />   </span>
-
+<!-- FRAMEWORK -->
   <span><img src="https://img.shields.io/badge/.NET-F8F8FF?logo=.NET&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/React-F8F8FF?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
