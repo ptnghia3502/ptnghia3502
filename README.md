@@ -3,7 +3,7 @@
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
-- :computer: I'm a newbie coder :penguin:
+- :computer: I'm a newbie in code :penguin:
 - :bulb: My favorite quote is ***"Slowing down is sometimes the best way to speed up"*** 
 
 
