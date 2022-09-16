@@ -1,4 +1,7 @@
-<img height="250px" src="https://user-images.githubusercontent.com/73085770/190726756-e66767fe-5e42-4c4c-9542-e989858fc3dc.gif" />
+<div align="center">
+  <img align="center" height="250px" src="https://user-images.githubusercontent.com/73085770/190726756-e66767fe-5e42-4c4c-9542-e989858fc3dc.gif" />
+  <img align="center" height="250px" src="https://user-images.githubusercontent.com/73085770/190730412-f5a40d94-37c0-4418-bc7d-7932796953db.gif" />
+</div>
 
 ## 👋 About me
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
