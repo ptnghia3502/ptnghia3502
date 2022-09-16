@@ -3,7 +3,7 @@
   <img align="center" height="250px" src="https://user-images.githubusercontent.com/73085770/190730412-f5a40d94-37c0-4418-bc7d-7932796953db.gif" />
 </div>
 
-## 👋 About me
+## 👋 About Me
 - :credit_card: My full name is **Pham Trong Nghia**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
@@ -67,7 +67,7 @@
   </div>
 </div>
 
-## 📫 How to reach me
+## 📫 How To Reach Me
 <div align="center">
   <a href="mailto:ptnghia3052@gmail.com" >
     <img align="center" width="40px" src="https://img.icons8.com/color/344/gmail--v1.png" />
