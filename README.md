@@ -86,3 +86,5 @@
   </a> &nbsp; 
 </div>
 
+<h2 align="center">Have a nice day!</h2>
+
