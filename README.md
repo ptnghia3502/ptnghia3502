@@ -69,7 +69,7 @@
 
 ## 📫 How to reach me
 <div align="center">
-  <a href="ptnghia3052@gmail.com" >
+  <a href="mailto:ptnghia3052@gmail.com" >
     <img align="center" width="26px" src="https://img.icons8.com/color/344/gmail--v1.png" />
   </a> &nbsp; 
 </div>
