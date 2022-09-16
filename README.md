@@ -70,6 +70,12 @@
 ## 📫 How to reach me
 <div align="center">
   <a href="mailto:ptnghia3052@gmail.com" >
+    <img align="center" width="30px" src="https://img.icons8.com/color/344/gmail--v1.png" />
+  </a> &nbsp; 
+  <a href="https://www.facebook.com/nghia.pham0305" >
+    <img align="center" width="30px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
+  </a> &nbsp; 
+  <a href="mailto:ptnghia3052@gmail.com" >
     <img align="center" width="26px" src="https://img.icons8.com/color/344/gmail--v1.png" />
   </a> &nbsp; 
 </div>
