@@ -68,4 +68,9 @@
 </div>
 
 ## 📫 How to reach me
+<div align="center">
+  <a href="ptnghia3052@gmail.com" >
+    <img align="center" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp; 
+</div>
 
