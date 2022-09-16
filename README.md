@@ -1,3 +1,5 @@
+![Coding Channel](https://user-images.githubusercontent.com/73085770/190726756-e66767fe-5e42-4c4c-9542-e989858fc3dc.gif)
+
 <h2>Hi 👋, I'm Trong Nghia</h2>
 
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
