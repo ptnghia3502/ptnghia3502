@@ -4,11 +4,12 @@
 </div>
 
 ## 👋 About me
+- :credit_card: My full name is **Pham Trong Nghia**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
 - :computer: I'm a newbie in code :penguin:
-- :bulb: My favorite quote is ***"Slowing down is sometimes the best way to speed up"*** 
+- :bulb: Best fact: ***"Slowing down is sometimes the best way to speed up"*** 
 
 
 ## 🛠 Technologies and Tools
@@ -65,3 +66,6 @@
     <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </div>
+
+## 📫 How to reach me
+
