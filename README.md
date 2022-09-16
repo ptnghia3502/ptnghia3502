@@ -1,4 +1,6 @@
-![Coding Channel](https://user-images.githubusercontent.com/73085770/190726756-e66767fe-5e42-4c4c-9542-e989858fc3dc.gif)
+<div>
+  <img align="center" height="350px" src="https://user-images.githubusercontent.com/73085770/190726756-e66767fe-5e42-4c4c-9542-e989858fc3dc.gif" />
+</div>
 
 <h2>Hi 👋, I'm Trong Nghia</h2>
 
