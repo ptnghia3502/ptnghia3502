@@ -41,11 +41,9 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Apache NetBeans IDE-F8F8FF?logo=Apache NetBeans IDE&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="Apache         NetBeans IDE" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/IntelliJ IDEA-F8F8FF?logo=IntelliJ IDEA&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />   </span>
 <!-- FRAMEWORK -->
+  <span><img src="https://img.shields.io/badge/IntelliJ IDEA-F8F8FF?logo=IntelliJ IDEA&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />   </span>
   <span><img src="https://img.shields.io/badge/.NET-F8F8FF?logo=.NET&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/React-F8F8FF?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Spring Boot-F8F8FF?logo=Spring Boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
   &nbsp;
