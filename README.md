@@ -57,10 +57,10 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align=center>
   <div>
-    <img width="366" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border=true" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border=true" />
   </div>
   <div>
-    <img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </div></br>
 
