@@ -56,8 +56,8 @@
 ## 🔥 My Github Stats
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align=center>
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border=true" />
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border=true" />
+    <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div></br>
 
 ## 📫 How To Reach Me
