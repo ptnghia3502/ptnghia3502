@@ -68,7 +68,7 @@
   <a href="https://www.facebook.com/nghia.pham0305" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
   </a> &nbsp; 
-  <a href="https://www.instagram.com/nghia_pham.photo" >
+  <a href="https://www.instagram.com/_nghia.phawm" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />
   </a> &nbsp;
   <a href="https://github.com/ptnghia3502" >
