@@ -12,6 +12,22 @@
 
 
 ## 🛠 Technologies and Tools
+<!-- FRAMEWORK -->
+  <span><img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" alt=".NET logo" title=".NET" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
+  &nbsp;
+   <span><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" alt="Azure logo" title="Azure" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="25" /></span>
+  &nbsp;
+  
 <!-- LANGUAGES -->
   <span><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C Sharp logo" title="C Sharp" height="25" /></span>
   &nbsp;
@@ -21,14 +37,16 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" title="Dart" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL   Server" height="25" /></span>
-  &nbsp;
   <span><img src="https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=black" alt="Swagger" title="Swagger" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Postman-F8F8F8?logo=Postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=orange" alt="GitLab logo" title="GitLab" height="25" /></span>
+  &nbsp;
   
-<!-- FRONT-END -->
+<!-- WEB -->
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -39,9 +57,11 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL   Server" height="25" /></span>
+  &nbsp;
   
 <!-- IDE Tools -->
-  <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio     Code" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual   Studio     Code" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="25" />   </span>
   &nbsp;
@@ -49,19 +69,9 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25"   /></span>
   &nbsp;
-  
-<!-- FRAMEWORK -->
-  <span><img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" alt=".NET logo" title=".NET" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" alt="Android Studio logo" title="Android Studio" height="25"   /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
-  &nbsp;
-   <span><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=orange" alt="GitLab logo" title="GitLab" height="25" /></span>
-  &nbsp;
-  
+
 </p>
 
 ## 🔥 My Github Stats
