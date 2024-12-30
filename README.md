@@ -1,85 +1,47 @@
+<h2 align="left">Hi 👋! My name is Trong Nghia, I'm a Full-stack Developer</h2>
+
 <div align="center">
-  <img align="center" height="250px" src="https://user-images.githubusercontent.com/73085770/190726756-e66767fe-5e42-4c4c-9542-e989858fc3dc.gif" />
-  <img align="center" height="250px" src="https://user-images.githubusercontent.com/73085770/190730412-f5a40d94-37c0-4418-bc7d-7932796953db.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
 </div>
 
-## 👋 About Me
-- :credit_card: My full name is **Pham Trong Nghia**
-- :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
-- :bulb: Best fact: ***"Got a bug? Comment that line, problem solved 🤣"*** 
+## 🛠 Tech Stack:
+<!-- LANGUAGES & FRAMEWORK & MOBILE -->
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="36" height="36" /></a>
 
+<!-- DATABASE -->
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="git" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="36" height="36" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36" /></a>
 
-## 🛠 Technologies and Tools
-<!-- FRAMEWORK -->
-  <span><img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" alt=".NET logo" title=".NET" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
-  &nbsp;
-   <span><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" alt="Azure logo" title="Azure" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="25" /></span>
-  &nbsp;
-  
-<!-- LANGUAGES -->
-  <span><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C Sharp logo" title="C Sharp" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" title="C" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" title="Dart" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=black" alt="Swagger" title="Swagger" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Postman-F8F8F8?logo=Postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=orange" alt="GitLab logo" title="GitLab" height="25" /></span>
-  &nbsp;
-  
-<!-- WEB -->
-  <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL   Server" height="25" /></span>
-  &nbsp;
-  
-<!-- IDE Tools -->
-  <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual   Studio     Code" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="25" />   </span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Apache%20Netbeans-1B6AC6?logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache NetBeans IDE logo" title="Apache         NetBeans IDE" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25"   /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" alt="Android Studio logo" title="Android Studio" height="25"   /></span>
-  &nbsp;
-
-</p>
-
-## 🔥 My Github Stats
-<!--https://github.com/anuraghazra/github-readme-stats-->
-<div align=center>
-    <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border=true" />
-    <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</div></br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ptnghia3502&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📫 How To Reach Me
 <div align="center">
@@ -101,4 +63,5 @@
 </div>
 
 <h2 align="center">Have a nice day!</h2>
+
 
