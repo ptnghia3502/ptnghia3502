@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Trong Nghia, I'm a Full-stack Developer</h2>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="500" />
+  <div></div>
   <img src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
 </div>
 
