@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Trong Nghia, I'm a Full-stack Developer</h2>
 
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/nghia-personal-profile.appspot.com/o/images-for-readme-profile%2F3.gif?alt=media&token=31ff509f-1cf2-4ec3-9a10-00962838c9cc" />
+  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2253470/extras/gif_0.gif?t=1708505018" />
 </div>
 
 ## ⭐ About me:
@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" />
-  <img src="https://firebasestorage.googleapis.com/v0/b/nghia-personal-profile.appspot.com/o/images-for-readme-profile%2F2.gif?alt=media&token=b2fefedf-cf4e-49da-bebb-196ce9b480bd" height="250" />
+  <img src="https://i.pinimg.com/originals/cd/83/0b/cd830b9a77ac95a80bb6ba2a8a8da6ce.gif" height="250" />
   <div></div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
@@ -65,6 +65,10 @@
   <a href="https://www.instagram.com/_nghia.phawm" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" /></a> &nbsp;
   <a href="https://github.com/ptnghia3502" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/ptnghia-zen" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" /></a> &nbsp; 
+</div>
+
+<div align="center">
+  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2253470/extras/gif_2.gif?t=1708505018" />
 </div>
 
 <h2 align="center">Have a nice day!</h2>
