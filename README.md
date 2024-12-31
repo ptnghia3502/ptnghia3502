@@ -12,6 +12,7 @@
 * 🏸 Badminton is my favorite sport
 * ⚡ Fun fact: `"Got a bug? Comment that line, problem will be solved"`
 
+## 💻 Git Status:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" />
   <img src="https://media1.tenor.com/m/TsXvKa70cCUAAAAd/bugcat-capoo.gif" height="250" />
