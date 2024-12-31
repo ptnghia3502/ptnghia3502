@@ -1,10 +1,23 @@
 <h2 align="left">Hi 👋! My name is Trong Nghia, I'm a Full-stack Developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="600" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/nghia-personal-profile.appspot.com/o/images-for-readme-profile%2F3.gif?alt=media&token=31ff509f-1cf2-4ec3-9a10-00962838c9cc" />
+</div>
+
+## ⭐ About me:
+* 🔭 I’m currently working as Full-stack & Mobile Dev
+* 🤝 Collaboration and supporting freelance project
+* 🌱 Training and mentoring capstone project
+* 🏍️ I like traveling around
+* 🏸 Badminton is my favorite sport
+* ⚡ Fun fact: `"Got a bug? Comment that line, problem will be solved"`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/nghia-personal-profile.appspot.com/o/images-for-readme-profile%2F2.gif?alt=media&token=b2fefedf-cf4e-49da-bebb-196ce9b480bd" height="250" />
   <div></div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
 </div>
 
 ## 🛠 Tech Stack:
