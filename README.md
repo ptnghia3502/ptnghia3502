@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" />
-  <img src="https://i.pinimg.com/originals/cd/83/0b/cd830b9a77ac95a80bb6ba2a8a8da6ce.gif" height="250" />
+  <img src="https://media1.tenor.com/m/TsXvKa70cCUAAAAd/bugcat-capoo.gif" height="250" />
   <div></div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
