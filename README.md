@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Trong Nghia, I'm a Full-stack Developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="600" />
   <div></div>
   <img src="https://github-readme-stats.vercel.app/api?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptnghia3502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
@@ -47,19 +47,19 @@
 
 ## 📫 How To Reach Me
 <div align="center">
-  <a href="mailto:ptnghia3052@gmail.com" >
+  <a href="mailto:ptnghia3052@gmail.com" target="_blank">
     <img align="center" width="40px" src="https://img.icons8.com/color/344/gmail--v1.png" />
   </a> &nbsp; 
-  <a href="https://www.facebook.com/nghia.pham0305" >
+  <a href="https://www.facebook.com/nghia.pham0305" target="_blank">
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
   </a> &nbsp; 
-  <a href="https://www.instagram.com/_nghia.phawm" >
+  <a href="https://www.instagram.com/_nghia.phawm" target="_blank">
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />
   </a> &nbsp;
-  <a href="https://github.com/ptnghia3502" >
+  <a href="https://github.com/ptnghia3502" target="_blank">
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ptnghia-zen" >
+  <a href="https://www.linkedin.com/in/ptnghia-zen" target="_blank">
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
   </a> &nbsp; 
 </div>
