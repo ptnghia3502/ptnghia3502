@@ -25,43 +25,33 @@
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a> &nbsp;
 <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /></a> &nbsp;
 
-<!-- DATABASE -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="git" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="36" height="36" /></a> &nbsp;
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36" /></a> &nbsp;
+<!-- DATABASE & CLOUND & CACHE -->
+<a href="https://www.oracle.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a> &nbsp;
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a> &nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a> &nbsp;
+<a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a> &nbsp;
+<a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> &nbsp;
+<a href="https://vercel.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="git" width="40" height="40" /></a> &nbsp;
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a> &nbsp;
+<a href="https://kafka.apache.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /></a> &nbsp;
+<a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /></a> &nbsp;
+<a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a> &nbsp;
+<a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a> &nbsp;
+<a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a> &nbsp;
+<a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a> &nbsp;
+<a href="https://about.gitlab.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40" /></a> &nbsp;
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /></a> &nbsp;
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ptnghia3502&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📫 How To Reach Me
 <div align="center">
-  <a href="mailto:ptnghia3052@gmail.com" target="_blank">
-    <img align="center" width="40px" src="https://img.icons8.com/color/344/gmail--v1.png" />
-  </a> &nbsp; 
-  <a href="https://www.facebook.com/nghia.pham0305" target="_blank">
-    <img align="center" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
-  </a> &nbsp; 
-  <a href="https://www.instagram.com/_nghia.phawm" target="_blank">
-    <img align="center" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />
-  </a> &nbsp;
-  <a href="https://github.com/ptnghia3502" target="_blank">
-    <img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ptnghia-zen" target="_blank">
-    <img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
-  </a> &nbsp; 
+  <a href="mailto:ptnghia3052@gmail.com" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/color/344/gmail--v1.png" /></a> &nbsp; 
+  <a href="https://www.facebook.com/nghia.pham0305" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" /></a> &nbsp; 
+  <a href="https://www.instagram.com/_nghia.phawm" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" /></a> &nbsp;
+  <a href="https://github.com/ptnghia3502" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/ptnghia-zen" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" /></a> &nbsp; 
 </div>
 
 <h2 align="center">Have a nice day!</h2>
